@@ -86,6 +86,9 @@
                                                 <field name="OBJECT">DOWN</field>
                                               </block>
                                             </value>
+                                            <next>
+                                              <block type="multimedia_doupdate" id="248"></block>
+                                            </next>
                                           </block>
                                         </next>
                                       </block>
